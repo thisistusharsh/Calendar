@@ -1,1 +1,1 @@
-# A Sample Calender
+# A Sample Calendar
